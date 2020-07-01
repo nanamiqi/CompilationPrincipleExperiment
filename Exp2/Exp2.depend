@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592817456 source:c:\users\lenovo\desktop\编译原理\编译原理实验\实验2\exp2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1593231987 source:d:\本科课程\编译原理\编译原理实验\实验2\exp2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
