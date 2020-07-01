@@ -1,0 +1,11 @@
+var n, f;
+begin
+   n := 0; ~
+   f := 1; a:=asdasdasdasd;
+   while n # 16 do
+   begin
+      n := n + 1;
+      if n <> 0 then
+           f := f * odd(n);
+   end;
+end.

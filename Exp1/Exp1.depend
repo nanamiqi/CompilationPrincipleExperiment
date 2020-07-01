@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1589807096 source:c:\users\lenovo\desktop\词法分析器\exp1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1590845520 source:c:\users\lenovo\desktop\编译原理\编译原理     实验\实验1\词法分析器\exp1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1592571766 source:c:\users\lenovo\desktop\编译原理\编译原理实验\实验1\词法分析器\exp1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1593231695 source:d:\本科课程\编译原理\编译原理实验\实验1\词法分析器\exp1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
